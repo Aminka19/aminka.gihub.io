@@ -1,0 +1,94 @@
+* {
+    /*margin: 0px;*/
+    /*padding: 0px;*/
+    box-sizing: border-box;
+}
+/*.logo {*/
+    /*border: 5px solid red;*/
+    /*border-bottom: 5px solid green;*/
+    /*margin: 50px 30px 70px 100px;*/
+/*}*/
+/*!*.content {*/
+    /*border: 5px solid red;*/
+/*}*!*/
+/*!*.footer {*/
+    /*border: 5px solid red;*/
+/*}*!*/
+/*.header {*/
+    /*border: 5px solid red;*/
+
+
+/*}*/
+/*.menu{*/
+    /*border: 5px solid red;*/
+/*}*/
+/*img {*/
+    /*border: 5px solid red;*/
+    /*margin: 100px 100px 100px 100px;*/
+    /*padding: 20px 20px;*/
+/*}*/
+/*.margin-padding {*/
+    /*border: 5px solid red;*/
+    /*margin: 100px;*/
+    /*!*padding: 50px;*!*/
+    /*width: 200px;*/
+    /*height: 200px;*/
+    /*box-sizing: border-box;*/
+/*}*/
+/*h1 {*/
+    /*text-align: center;*/
+    /*width: 200px;*/
+    /*margin: 10px auto 20px auto;*/
+/*}*/
+/*li{*/
+    /*border: 2px solid red;*/
+    /*display: inline-block;*/
+    /*padding: 30px;*/
+
+/*}*/
+.header{
+    border: 5px solid red;
+    margin: 10px 10px;
+    display: flex;
+    justify-content: space-around;
+}
+img{
+    border: 5px solid red;
+    margin: 20px 20px;
+}
+.menu{
+    border: 5px solid red;
+    padding: 30px;
+    margin: 50px 50px 50px 50px;
+
+}
+.content {
+    border: 5px solid red;
+    padding: 20px 20px;
+    margin: 10px 10px;
+}
+.footer{
+    border: 5px solid red;
+    margin: 10px 10px;
+    padding: 10px 10px;
+}
+h1{
+    text-align: center;
+    margin: 10px 10px;
+    padding: 10px 10px;
+}
+
+footer{
+    text-align: center;
+    margin: 10px 10px;
+    padding: 10px;
+}
+copy{
+    text-align: center;
+    margin: auto;
+}
+li{
+    /*border: 2px solid red;*/
+    display: inline-block;
+    margin-right: 30px;
+}
